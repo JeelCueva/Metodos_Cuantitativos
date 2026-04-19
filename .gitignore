@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+.eggs/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.*
+
+# Figuras generadas (no versionar PNGs)
+notebooks/*.png
+notebooks/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
